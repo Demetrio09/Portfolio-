@@ -1,6 +1,6 @@
-# Homework 02 / CSS and Bootstrap: Responsive Portfolio
+# Responsive Portfolio / HTML / Handlebars-template CSS / Bootstrap
 
-Responsive design web application with the following files:
+Responsive design web portfolio with the following files:
 
 * `index.html`
 
