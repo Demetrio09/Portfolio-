@@ -1,0 +1,27 @@
+{
+  "name": "Demetrio09.github.io",
+  "version": "1.0.0",
+  "description": "Responsive design web application with the following files:",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Demetrio09/Demetrio09.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Demetrio09/Demetrio09.github.io/issues"
+  },
+  "homepage": "https://github.com/Demetrio09/Demetrio09.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "npm": "^6.14.6",
+    "path": "^0.12.7"
+  }
+}
